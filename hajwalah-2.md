@@ -1,5 +1,5 @@
 # Hajwalah 2
-the official privacy policy for our game Hajwalah 2.
+Privacy policy for our game Hajwalah 2.
 # Privacy Policy :
 Egyptian Developers built Hajwalah as a Free app. This SERVICE is provided by Egyptian Developers at no cost and is intended for use as is.
 
