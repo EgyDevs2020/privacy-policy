@@ -23,7 +23,6 @@ Link to privacy policies of third-party service providers:
 All user data is:
 - Stored securely using Supabase (EU-based servers)
 - Encrypted in transit (TLS/SSL)
-- Automatically deleted after 90 days of account inactivity
 
 ## Account Deletion
 
